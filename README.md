@@ -5,11 +5,11 @@
 1，建立自己的folder  
 比如自己的名字是wangjingzhou，floder名为jzwang  
 根目录放置4个个人floder和一个masterfloder  
-/jzwang
-/syzhang
-/jmshen
-/hrzhao
-/master
+/jzwang  
+/syzhang  
+/jmshen  
+/hrzhao  
+/master  
 
 ## 注意事项
 用qpython的库的时候注意将numpy版本改为1.19.3
