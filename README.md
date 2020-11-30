@@ -1,12 +1,11 @@
 # Robothon
 
 ## 链接事项
-1. ssh 连接
-第一次ssh连接
+1. ssh 连接  
+第一次ssh连接    
 ssh {your nyu netid}@40.84.216.142  
 test1234  
-
-设置你的密码
+设置你的密码  
 
 2. HPC 申请跳转
 https://wikis.nyu.edu/display/NYUHPC/Request+or+Renew  
